@@ -63,8 +63,8 @@ I don't just call APIs; I build intelligent systems. My focus is on **Document I
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jahanzaib-Raja&show_icons=true&theme=transparent&hide_border=true&title_color=79ff97&icon_color=79ff97&text_color=ffffff" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahanzaib-Raja&layout=compact&theme=transparent&hide_border=true&title_color=79ff97&text_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jahanzaib-Raja&show_icons=true&theme=transparent&hide_border=true&title_color=79ff97&icon_color=79ff97&text_color=ffffff&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahanzaib-Raja&layout=compact&theme=transparent&hide_border=true&title_color=79ff97&text_color=ffffff&count_private=true" height="170" />
 </p>
 
 ---
