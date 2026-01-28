@@ -77,8 +77,8 @@ Stripe, Google APIs, Webhooks, Third-party APIs
 ## 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&hide_rank=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jahanzaib-Raja&show_icons=true&hide_title=true&hide_rank=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahanzaib-Raja&layout=compact" height="150" />
 </p>
 
 ---
